@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8ca2cd5.css",
+    "main.js": "/static/js/main.50007396.js",
+    "static/media/bg-texture.png": "/static/media/bg-texture.f7ff415f4d3102099111.png",
+    "static/media/Phemelo Motsamai - Nav.jpg": "/static/media/Phemelo Motsamai - Nav.031b553f7b1275c8e80d.jpg",
+    "static/media/PhemeloMotsamai.pdf": "/static/media/PhemeloMotsamai.0127b7f19c6e5884237e.pdf",
+    "static/media/PhemeloMotsamai - Content.jpg": "/static/media/PhemeloMotsamai - Content.8970e10d5df429f114b1.jpg",
+    "index.html": "/index.html",
+    "main.d8ca2cd5.css.map": "/static/css/main.d8ca2cd5.css.map",
+    "main.50007396.js.map": "/static/js/main.50007396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ca2cd5.css",
+    "static/js/main.50007396.js"
+  ]
+}
